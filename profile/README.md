@@ -2,9 +2,9 @@
 
 > 택시를 함께 탑승할 학생들을 모집해 보세요!
 
-<img src="https://github.com/user-attachments/assets/6880f176-e559-4f81-8ea3-87e2a70d7f17" width="100px" alt="#"/>
-
 **[🔗 배포 링크](https://www.taxi-mate.like-knu.com)**
+
+<img width="1920" alt="클립" src="https://github.com/user-attachments/assets/078cb298-b0cf-4e11-8962-333eb8d2dee4">
 
 ## 프로젝트 소개
 
